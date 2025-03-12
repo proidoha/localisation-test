@@ -20,12 +20,6 @@ msgstr[3] ""
 msgid "test_key"
 msgstr "my new file contents"
 
-msgid "colors->one"
-msgstr ""
-
-msgid "colors->other"
-msgstr ""
-
 msgid "apples"
 msgid_plural ""
 msgstr[0] "one trash can"
