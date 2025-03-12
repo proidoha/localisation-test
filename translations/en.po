@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: localit.io\n"
+
+msgid "account_created"
+msgstr ""
+
+msgid "colors"
+msgid_plural ""
+msgstr[0] ""
+
+msgid "test_key"
+msgstr ""
+
+msgid "colors->one"
+msgstr ""
+
+msgid "colors->other"
+msgstr ""
+
+msgid "apples"
+msgid_plural ""
+msgstr[0] ""
