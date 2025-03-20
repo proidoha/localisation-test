@@ -25,5 +25,40 @@ msgid_plural ""
 msgstr[0] "one trash can"
 msgstr[1] ""
 msgstr[2] ""
-msgstr[3] "There is no exact translation for \"{{0}} pāʻālua\" because it exists in a specific context."
+msgstr[3] "There is no exact translation for \"[%1$s] pāʻālua\" because it exists in a specific context."
+
+msgid "hhhh"
+msgstr "%#@format@"
+
+msgid "hhhh->format->NSStringFormatValueTypeKey"
+msgstr "li"
+
+msgid "hhhh->format"
+msgid_plural ""
+msgstr[0] "rty"
+msgstr[1] "rty"
+
+msgid "apples->many"
+msgstr ""
+
+msgid "colors->few"
+msgstr ""
+
+msgid "colors->many"
+msgstr ""
+
+msgid "colors->other"
+msgstr ""
+
+msgid "apples->one"
+msgstr "one trash can"
+
+msgid "apples->few"
+msgstr ""
+
+msgid "apples->other"
+msgstr "There is no exact translation for \"{{0}} pāʻālua\" because it exists in a specific context."
+
+msgid "colors->one"
+msgstr ""
 
