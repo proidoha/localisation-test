@@ -7,28 +7,8 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 "X-Generator: localit.io\n"
 
-msgid "account_created"
-msgstr "The meeting was held"
-
-msgid "colors"
-msgid_plural ""
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-
 msgid "test_key"
 msgstr "my new file contents"
-
-msgid "apples"
-msgid_plural ""
-msgstr[0] "one trash can"
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] "There is no exact translation for \"[%1$s] pāʻālua\" because it exists in a specific context."
-
-msgid "hhhh"
-msgstr "%#@format@"
 
 msgid "hhhh->format->NSStringFormatValueTypeKey"
 msgstr "li"
@@ -38,27 +18,47 @@ msgid_plural ""
 msgstr[0] "rty"
 msgstr[1] "rty"
 
-msgid "apples->many"
+msgid "hhhh"
+msgstr "%#@format@"
+
+msgid "colors->other"
 msgstr ""
 
-msgid "colors->few"
+msgid "colors->one"
 msgstr ""
 
 msgid "colors->many"
 msgstr ""
 
-msgid "colors->other"
+msgid "colors->few"
 msgstr ""
 
-msgid "apples->one"
-msgstr "one trash can"
-
-msgid "apples->few"
-msgstr ""
+msgid "colors"
+msgid_plural ""
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 msgid "apples->other"
 msgstr "There is no exact translation for \"{{0}} pāʻālua\" because it exists in a specific context."
 
-msgid "colors->one"
+msgid "apples->one"
+msgstr "one trash can"
+
+msgid "apples->many"
 msgstr ""
+
+msgid "apples->few"
+msgstr ""
+
+msgid "apples"
+msgid_plural ""
+msgstr[0] "one trash can"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] "There is no exact translation for \"[%1$s] pāʻālua\" because it exists in a specific context."
+
+msgid "account_created"
+msgstr "The meeting was held"
 
