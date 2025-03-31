@@ -35,7 +35,7 @@ msgstr ""
 
 msgid "colors"
 msgid_plural ""
-msgstr[0] ""
+msgstr[0] "green"
 msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
@@ -59,9 +59,9 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] "There is no exact translation for \"[%1$s] pāʻālua\" because it exists in a specific context."
 
-msgid "account_deleted"
-msgstr "Account was deleted"
-
 msgid "account_created"
 msgstr "The meeting was held"
+
+msgid "account_deleted"
+msgstr "Account was deleted"
 
