@@ -60,7 +60,7 @@ msgstr[2] ""
 msgstr[3] "There is no exact translation for \"[%1$s] pāʻālua\" because it exists in a specific context."
 
 msgid "account_created"
-msgstr "The meeting was held"
+msgstr "Account was created"
 
 msgid "account_deleted"
 msgstr "Account was deleted"
