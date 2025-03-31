@@ -62,3 +62,6 @@ msgstr[3] "There is no exact translation for \"[%1$s] pāʻālua\" because it ex
 msgid "account_created"
 msgstr "The meeting was held"
 
+msgid "account_deleted"
+msgstr "Account was deleted"
+
