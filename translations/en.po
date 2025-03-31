@@ -65,3 +65,6 @@ msgstr "Account was created"
 msgid "account_deleted"
 msgstr "Account was deleted"
 
+msgid "opened_task"
+msgstr "The opened task"
+
