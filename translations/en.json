@@ -6,7 +6,7 @@
     },
     "colors": {
         "one": "one color",
-        "other": ""
+        "other": "colors"
     }
     "new_string_key": "value new"
 }
