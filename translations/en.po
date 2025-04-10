@@ -10,64 +10,66 @@ msgstr ""
 msgid "test_key"
 msgstr "my new file contents"
 
+msgid "opened_task"
+msgstr "The opened task"
+
 msgid "hhhh->format->NSStringFormatValueTypeKey"
 msgstr "li"
 
 msgid "hhhh->format"
-msgid_plural ""
+msgid_plural "hhhh->format"
 msgstr[0] "rty"
 msgstr[1] "rty"
+msgstr[2] "hhhh->format"
+msgstr[3] "hhhh->format"
 
 msgid "hhhh"
 msgstr "%#@format@"
 
 msgid "colors->other"
-msgstr ""
+msgstr "other"
 
 msgid "colors->one"
-msgstr ""
+msgstr "one"
 
 msgid "colors->many"
-msgstr ""
+msgstr "many"
 
 msgid "colors->few"
-msgstr ""
+msgstr "few"
 
 msgid "colors"
-msgid_plural ""
+msgid_plural "colors"
 msgstr[0] "green"
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[1] "colors"
+msgstr[2] "colors"
+msgstr[3] "colors"
+
+msgid "closed_task"
+msgstr "The closed task"
 
 msgid "apples->other"
-msgstr "There is no exact translation for \"{{0}} pāʻālua\" because it exists in a specific context."
+msgstr "There is no exact translation for \"[%1$s] pāʻālua\" because it exists in a specific context."
 
 msgid "apples->one"
 msgstr "one trash can"
 
 msgid "apples->many"
-msgstr ""
+msgstr "many"
 
 msgid "apples->few"
-msgstr ""
+msgstr "few"
 
 msgid "apples"
-msgid_plural ""
+msgid_plural "apples"
 msgstr[0] "one trash can"
-msgstr[1] ""
-msgstr[2] ""
+msgstr[1] "apples"
+msgstr[2] "apples"
 msgstr[3] "There is no exact translation for \"[%1$s] pāʻālua\" because it exists in a specific context."
-
-msgid "account_created"
-msgstr "Account was created"
 
 msgid "account_deleted"
 msgstr "Account was deleted"
 
-msgid "opened_task"
-msgstr "The opened task"
-
-msgid "closed_task"
-msgstr "The closed task"
+msgid "account_created"
+msgstr "The meeting was held"
 
