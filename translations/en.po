@@ -67,7 +67,7 @@ msgstr[1] "apples"
 msgstr[2] "apples"
 msgstr[3] "There is no exact translation for \"[%1$s] pāʻālua\" because it exists in a specific context."
 
-msgid "account_deleted"
+msgid "account_was_deleted"
 msgstr "Account was deleted"
 
 msgid "account_created"
