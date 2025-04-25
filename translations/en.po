@@ -45,7 +45,7 @@ msgstr[1] "colors"
 msgstr[2] "colors"
 msgstr[3] "colors"
 
-msgid "closed_task"
+msgid "closed_task1"
 msgstr "The closed task"
 
 msgid "apples->other"
