@@ -10,7 +10,7 @@ msgstr ""
 msgid "test_key"
 msgstr "my new file contents"
 
-msgid "opened_task"
+msgid "opened_task1"
 msgstr "The opened task"
 
 msgid "hhhh->format->NSStringFormatValueTypeKey"
