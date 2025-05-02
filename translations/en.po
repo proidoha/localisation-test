@@ -73,6 +73,6 @@ msgstr "Account was deleted"
 msgid "account_was_created11"
 msgstr "The meeting was held"
 
-msgid "new_content2"
-msgstr "New content2"
+msgid "new_content3"
+msgstr "Completely new content"
 
