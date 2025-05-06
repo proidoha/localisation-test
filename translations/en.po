@@ -13,6 +13,18 @@ msgstr "my new file contents"
 msgid "opened_task1"
 msgstr "The opened task"
 
+msgid "opened_task"
+msgstr "The opened task"
+
+msgid "new_content3"
+msgstr "Completely new content"
+
+msgid "new_content2"
+msgstr "New content2"
+
+msgid "new_content1"
+msgstr "New content1"
+
 msgid "hhhh->format->NSStringFormatValueTypeKey"
 msgstr "li"
 
@@ -48,6 +60,9 @@ msgstr[3] "colors"
 msgid "closed_task1"
 msgstr "The closed task"
 
+msgid "closed_task"
+msgstr "The closed task"
+
 msgid "apples->other"
 msgstr "There is no exact translation for \"[%1$s] pāʻālua\" because it exists in a specific context."
 
@@ -73,6 +88,12 @@ msgstr "Account was deleted"
 msgid "account_was_created11"
 msgstr "The meeting was held"
 
-msgid "new_content3"
-msgstr "Completely new content"
+msgid "account_was_created"
+msgstr "The meeting was held"
+
+msgid "account_deleted"
+msgstr "Account was deleted"
+
+msgid "account_created"
+msgstr "The meeting was held"
 
