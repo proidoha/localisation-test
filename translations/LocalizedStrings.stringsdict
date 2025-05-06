@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>seconds_count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@seconds_count@</string>
+		<key>seconds_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>%d секунд</string>
+			<key>one</key>
+			<string>%d секунда</string>
+			<key>few</key>
+			<string>%d секунды</string>
+			<key>other</key>
+			<string>%d секунд</string>
+		</dict>
+	</dict>
+	<key>hours_plural</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@hours_count@</string>
+		<key>hours_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>часов</string>
+			<key>one</key>
+			<string>час</string>
+			<key>few</key>
+			<string>часа</string>
+			<key>many</key>
+			<string>часов</string>
+			<key>other</key>
+			<string>часа</string>
+		</dict>
+	</dict>
+	<key>minutes_count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@minutes_count@</string>
+		<key>minutes_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>%d минут</string>
+			<key>one</key>
+			<string>%d минута</string>
+			<key>few</key>
+			<string>%d минуты</string>
+			<key>other</key>
+			<string>%d минут</string>
+		</dict>
+	</dict>
+	<key>day_plural</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@days_count@</string>
+		<key>days_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>дней</string>
+			<key>one</key>
+			<string>день</string>
+			<key>few</key>
+			<string>дня</string>
+			<key>many</key>
+			<string>дней</string>
+			<key>other</key>
+			<string>дня</string>
+		</dict>
+	</dict>
+	<key>week_plural</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@weeks_count@</string>
+		<key>weeks_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>недель</string>
+			<key>one</key>
+			<string>неделю</string>
+			<key>few</key>
+			<string>недели</string>
+			<key>many</key>
+			<string>недель</string>
+			<key>other</key>
+			<string>недели</string>
+		</dict>
+	</dict>
+	<key>month_plural</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@month_count@</string>
+		<key>month_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>месяцев</string>
+			<key>one</key>
+			<string>месяц</string>
+			<key>few</key>
+			<string>месяца</string>
+			<key>many</key>
+			<string>месяцев</string>
+			<key>other</key>
+			<string>месяца</string>
+		</dict>
+	</dict>
+	<key>year_plural</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@years_count@</string>
+		<key>years_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>лет</string>
+			<key>one</key>
+			<string>год</string>
+			<key>few</key>
+			<string>года</string>
+			<key>many</key>
+			<string>лет</string>
+			<key>other</key>
+			<string>года</string>
+		</dict>
+	</dict>
+	<key>reminder_count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@reminder_count@</string>
+		<key>reminder_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>%d напоминаний</string>
+			<key>one</key>
+			<string>%d напоминание</string>
+			<key>few</key>
+			<string>%d напоминания</string>
+			<key>other</key>
+			<string>%d напоминаний</string>
+		</dict>
+	</dict>
+	<key>in_minutes_count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@in_minutes_count@</string>
+		<key>in_minutes_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>%d минут</string>
+			<key>one</key>
+			<string>%d минуту</string>
+			<key>few</key>
+			<string>%d минуты</string>
+			<key>other</key>
+			<string>%d минут</string>
+		</dict>
+	</dict>
+	<key>removed_count_channels</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@removed_channels_count@</string>
+		<key>removed_channels_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>Ничего не удалено</string>
+			<key>one</key>
+			<string>Вы удалили %d канал</string>
+			<key>few</key>
+			<string>Вы удалили %d канала</string>
+			<key>other</key>
+			<string>Вы удалили %d каналов</string>
+		</dict>
+	</dict>
+	<key>remove_count_channels</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@channels_count@</string>
+		<key>channels_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>Нет каналов для удаления</string>
+			<key>one</key>
+			<string>Удалить %d канал</string>
+			<key>few</key>
+			<string>Удалить %d канала</string>
+			<key>other</key>
+			<string>Удалить %d каналов</string>
+		</dict>
+	</dict>
+	<key>removed_count_films</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@removed_film_count@</string>
+		<key>removed_film_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>Ничего не удалено</string>
+			<key>one</key>
+			<string>Вы удалили %d фильм</string>
+			<key>few</key>
+			<string>Вы удалили %d фильма</string>
+			<key>other</key>
+			<string>Вы удалили %d фильмов</string>
+		</dict>
+	</dict>
+	<key>remove_count_films</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@film_count@</string>
+		<key>film_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>Нет фильмов для удаления</string>
+			<key>one</key>
+			<string>Удалить %d фильм</string>
+			<key>few</key>
+			<string>Удалить %d фильма</string>
+			<key>other</key>
+			<string>Удалить %d фильмов</string>
+		</dict>
+	</dict>
+	<key>removed_count_serials</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@removed_serial_count@</string>
+		<key>removed_serial_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>Ничего не удалено</string>
+			<key>one</key>
+			<string>Вы удалили %d сериал</string>
+			<key>few</key>
+			<string>Вы удалили %d сериала</string>
+			<key>other</key>
+			<string>Вы удалили %d сериалов</string>
+		</dict>
+	</dict>
+	<key>remove_count_serials</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@serial_count@</string>
+		<key>serial_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>Нет сериалов для удаления</string>
+			<key>one</key>
+			<string>Удалить %d сериал</string>
+			<key>few</key>
+			<string>Удалить %d сериала</string>
+			<key>other</key>
+			<string>Удалить %d сериалов</string>
+		</dict>
+	</dict>
+	<key>removed_count_films_and_serials</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@removed_film_and_serial_count@</string>
+		<key>removed_film_and_serial_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>Ничего не удалено</string>
+			<key>one</key>
+			<string>Вы удалили %d фильм или сериал</string>
+			<key>few</key>
+			<string>Вы удалили %d фильма и сериала</string>
+			<key>other</key>
+			<string>Вы удалили %d фильмов и сериалов</string>
+		</dict>
+	</dict>
+	<key>remove_count_films_and_serials</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@film_and_serial_count@</string>
+		<key>film_and_serial_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>Нет сериалов для удаления</string>
+			<key>one</key>
+			<string>Удалить %d фильм или сериал</string>
+			<key>few</key>
+			<string>Удалить %d фильма и сериала</string>
+			<key>other</key>
+			<string>Удалить %d фильмов и сериалов</string>
+		</dict>
+	</dict>
+	<key>remove_count_reminders</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@reminder_count@</string>
+		<key>reminder_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>Выберите напоминания для удаления</string>
+			<key>one</key>
+			<string>Удалить %d напоминание</string>
+			<key>few</key>
+			<string>Удалить %d напоминания</string>
+			<key>other</key>
+			<string>Удалить %d напоминаний</string>
+		</dict>
+	</dict>
+	<key>left_symbols_count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@left_symbols@</string>
+		<key>left_symbols</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>Осталось %d символов</string>
+			<key>one</key>
+			<string>Осталось %d символ</string>
+			<key>few</key>
+			<string>Осталось %d символа</string>
+			<key>other</key>
+			<string>Осталось %d символов</string>
+		</dict>
+	</dict>
+	<key>serials_count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@serial_count@</string>
+		<key>serial_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>сериалов</string>
+			<key>one</key>
+			<string>%d сериал</string>
+			<key>few</key>
+			<string>%d сериала</string>
+			<key>other</key>
+			<string>%d сериалов</string>
+		</dict>
+	</dict>
+	<key>films_count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@film_count@</string>
+		<key>film_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>фильмов</string>
+			<key>one</key>
+			<string>%d фильм</string>
+			<key>few</key>
+			<string>%d фильма</string>
+			<key>other</key>
+			<string>%d фильмов</string>
+		</dict>
+	</dict>
+	<key>channels_count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@channel_count@</string>
+		<key>channel_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>каналов</string>
+			<key>one</key>
+			<string>%d канал</string>
+			<key>few</key>
+			<string>%d канала</string>
+			<key>other</key>
+			<string>%d каналов</string>
+		</dict>
+	</dict>
+	<key>left_plural</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@left_count@</string>
+		<key>left_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>осталось</string>
+			<key>one</key>
+			<string>остался</string>
+			<key>few</key>
+			<string>осталось</string>
+			<key>many</key>
+			<string>осталось</string>
+			<key>other</key>
+			<string>осталось</string>
+		</dict>
+	</dict>
+	<key>free_plural</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@free_count@</string>
+		<key>free_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>бесплатных</string>
+			<key>one</key>
+			<string>бесплатный</string>
+			<key>few</key>
+			<string>бесплатных</string>
+			<key>many</key>
+			<string>бесплатных</string>
+			<key>other</key>
+			<string>бесплатных</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
