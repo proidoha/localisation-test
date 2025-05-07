@@ -53,13 +53,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>[%d] сериал</string>
+			<string>%li сериал</string>
 			<key>few</key>
-			<string>[%d] сериала</string>
+			<string>%li сериала</string>
 			<key>many</key>
 			<string></string>
 			<key>other</key>
-			<string>[%d] сериалов</string>
+			<string>%li сериалов</string>
 		</dict>
 	</dict>
 	<key>seconds_count</key>
@@ -73,13 +73,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>[%d] секунда</string>
+			<string>%li секунда</string>
 			<key>few</key>
-			<string>[%d] секунды</string>
+			<string>%li секунды</string>
 			<key>many</key>
 			<string></string>
 			<key>other</key>
-			<string>[%d] секунд</string>
+			<string>%li секунд</string>
 		</dict>
 	</dict>
 	<key>removed_count_serials</key>
@@ -93,13 +93,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>Вы удалили [%d] сериал</string>
+			<string>Вы удалили %li сериал</string>
 			<key>few</key>
-			<string>Вы удалили [%d] сериала</string>
+			<string>Вы удалили %li сериала</string>
 			<key>many</key>
 			<string></string>
 			<key>other</key>
-			<string>Вы удалили [%d] сериалов</string>
+			<string>Вы удалили %li сериалов</string>
 		</dict>
 	</dict>
 	<key>removed_count_films_and_serials</key>
@@ -113,13 +113,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>Вы удалили [%d] фильм или сериал</string>
+			<string>Вы удалили %li фильм или сериал</string>
 			<key>few</key>
-			<string>Вы удалили [%d] фильма и сериала</string>
+			<string>Вы удалили %li фильма и сериала</string>
 			<key>many</key>
 			<string></string>
 			<key>other</key>
-			<string>Вы удалили [%d] фильмов и сериалов</string>
+			<string>Вы удалили %li фильмов и сериалов</string>
 		</dict>
 	</dict>
 	<key>removed_count_films</key>
@@ -133,13 +133,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>Вы удалили [%d] фильм</string>
+			<string>Вы удалили %li фильм</string>
 			<key>few</key>
-			<string>Вы удалили [%d] фильма</string>
+			<string>Вы удалили %li фильма</string>
 			<key>many</key>
 			<string></string>
 			<key>other</key>
-			<string>Вы удалили [%d] фильмов</string>
+			<string>Вы удалили %li фильмов</string>
 		</dict>
 	</dict>
 	<key>removed_count_channels</key>
@@ -153,13 +153,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>Вы удалили [%d] канал</string>
+			<string>Вы удалили %li канал</string>
 			<key>few</key>
-			<string>Вы удалили [%d] канала</string>
+			<string>Вы удалили %li канала</string>
 			<key>many</key>
 			<string></string>
 			<key>other</key>
-			<string>Вы удалили [%d] каналов</string>
+			<string>Вы удалили %li каналов</string>
 		</dict>
 	</dict>
 	<key>remove_count_serials</key>
@@ -173,13 +173,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>Удалить [%d] сериал</string>
+			<string>Удалить %li сериал</string>
 			<key>few</key>
-			<string>Удалить [%d] сериала</string>
+			<string>Удалить %li сериала</string>
 			<key>many</key>
 			<string></string>
 			<key>other</key>
-			<string>Удалить [%d] сериалов</string>
+			<string>Удалить %li сериалов</string>
 		</dict>
 	</dict>
 	<key>remove_count_reminders</key>
@@ -193,13 +193,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>Удалить [%d] напоминание</string>
+			<string>Удалить %li напоминание</string>
 			<key>few</key>
-			<string>Удалить [%d] напоминания</string>
+			<string>Удалить %li напоминания</string>
 			<key>many</key>
 			<string></string>
 			<key>other</key>
-			<string>Удалить [%d] напоминаний</string>
+			<string>Удалить %li напоминаний</string>
 		</dict>
 	</dict>
 	<key>remove_count_films_and_serials</key>
@@ -213,13 +213,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>Удалить [%d] фильм или сериал</string>
+			<string>Удалить %li фильм или сериал</string>
 			<key>few</key>
-			<string>Удалить [%d] фильма и сериала</string>
+			<string>Удалить %li фильма и сериала</string>
 			<key>many</key>
 			<string></string>
 			<key>other</key>
-			<string>Удалить [%d] фильмов и сериалов</string>
+			<string>Удалить %li фильмов и сериалов</string>
 		</dict>
 	</dict>
 	<key>remove_count_films</key>
@@ -233,13 +233,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>Удалить [%d] фильм</string>
+			<string>Удалить %li фильм</string>
 			<key>few</key>
-			<string>Удалить [%d] фильма</string>
+			<string>Удалить %li фильма</string>
 			<key>many</key>
 			<string></string>
 			<key>other</key>
-			<string>Удалить [%d] фильмов</string>
+			<string>Удалить %li фильмов</string>
 		</dict>
 	</dict>
 	<key>remove_count_channels</key>
@@ -253,13 +253,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>Удалить [%d] канал</string>
+			<string>Удалить %li канал</string>
 			<key>few</key>
-			<string>Удалить [%d] канала</string>
+			<string>Удалить %li канала</string>
 			<key>many</key>
 			<string></string>
 			<key>other</key>
-			<string>Удалить [%d] каналов</string>
+			<string>Удалить %li каналов</string>
 		</dict>
 	</dict>
 	<key>reminder_count</key>
@@ -273,13 +273,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>[%d] напоминание</string>
+			<string>%li напоминание</string>
 			<key>few</key>
-			<string>[%d] напоминания</string>
+			<string>%li напоминания</string>
 			<key>many</key>
 			<string></string>
 			<key>other</key>
-			<string>[%d] напоминаний</string>
+			<string>%li напоминаний</string>
 		</dict>
 	</dict>
 	<key>month_plural</key>
@@ -313,13 +313,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>[%d] минута</string>
+			<string>%li минута</string>
 			<key>few</key>
-			<string>[%d] минуты</string>
+			<string>%li минуты</string>
 			<key>many</key>
 			<string></string>
 			<key>other</key>
-			<string>[%d] минут</string>
+			<string>%li минут</string>
 		</dict>
 	</dict>
 	<key>left_symbols_count</key>
@@ -333,13 +333,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>Осталось [%d] символ</string>
+			<string>Осталось %li символ</string>
 			<key>few</key>
-			<string>Осталось [%d] символа</string>
+			<string>Осталось %li символа</string>
 			<key>many</key>
 			<string></string>
 			<key>other</key>
-			<string>Осталось [%d] символов</string>
+			<string>Осталось %li символов</string>
 		</dict>
 	</dict>
 	<key>left_plural</key>
@@ -373,13 +373,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>[%d] минуту</string>
+			<string>%li минуту</string>
 			<key>few</key>
-			<string>[%d] минуты</string>
+			<string>%li минуты</string>
 			<key>many</key>
 			<string></string>
 			<key>other</key>
-			<string>[%d] минут</string>
+			<string>%li минут</string>
 		</dict>
 	</dict>
 	<key>hours_plural</key>
@@ -453,13 +453,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>[%d] фильм</string>
+			<string>%li фильм</string>
 			<key>few</key>
-			<string>[%d] фильма</string>
+			<string>%li фильма</string>
 			<key>many</key>
 			<string></string>
 			<key>other</key>
-			<string>[%d] фильмов</string>
+			<string>%li фильмов</string>
 		</dict>
 	</dict>
 	<key>day_plural</key>
@@ -513,13 +513,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>[%d] канал</string>
+			<string>%li канал</string>
 			<key>few</key>
-			<string>[%d] канала</string>
+			<string>%li канала</string>
 			<key>many</key>
 			<string></string>
 			<key>other</key>
-			<string>[%d] каналов</string>
+			<string>%li каналов</string>
 		</dict>
 	</dict>
 	<key>apples</key>
@@ -539,7 +539,7 @@
 			<key>many</key>
 			<string>apples</string>
 			<key>other</key>
-			<string>There is no exact translation for &#34;[%1$s] pāʻālua&#34; because it exists in a specific context.</string>
+			<string>There is no exact translation for &#34;%1$@ pāʻālua&#34; because it exists in a specific context.</string>
 		</dict>
 	</dict>
 </dict>
