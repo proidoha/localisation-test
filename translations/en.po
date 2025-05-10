@@ -337,6 +337,6 @@ msgstr "Account was deleted"
 msgid "account_created"
 msgstr "The meeting was held"
 
-msgid "new_test_key1"
-msgstr "new value1"
+msgid "new_test_key2"
+msgstr "new value2"
 
