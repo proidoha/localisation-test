@@ -344,5 +344,5 @@ msgid "account_created_new"
 msgstr "The account has been created recently"
 
 msgid "broken_test"
-msgstr "The test has been broken"
+msgstr "The test has been broken somehow"
 
