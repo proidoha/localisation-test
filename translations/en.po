@@ -341,5 +341,5 @@ msgid "new_test_key2"
 msgstr "new value2"
 
 msgid "account_created_new"
-msgstr "The account was created"
+msgstr "The account has been created recently"
 
