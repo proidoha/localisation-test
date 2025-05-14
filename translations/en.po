@@ -1,350 +1,300 @@
 msgid ""
 msgstr ""
-"Language: ru\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: localit.io\n"
 
-msgid "year_plural->years_count"
+msgid "account_created"
+msgstr "The meeting was held"
+
+msgid "apples"
 msgid_plural ""
-msgstr[0] "год"
-msgstr[1] "года"
-msgstr[2] "лет"
-msgstr[3] "года"
+msgstr[0] "one trash can"
+msgstr[1] "apples"
 
-msgid "year_plural"
-msgstr "%#@years_count@"
+msgid "hello_world"
+msgstr "hello!"
 
-msgid "week_plural->weeks_count"
-msgid_plural ""
-msgstr[0] "неделю"
-msgstr[1] "недели"
-msgstr[2] "недель"
-msgstr[3] "недели"
+msgid "plural_key"
+msgstr "bar"
 
-msgid "week_plural"
-msgstr "%#@weeks_count@"
+msgid "colors->one"
+msgstr "one"
 
-msgid "test_key"
-msgstr "my new file contents"
+msgid "apples->one"
+msgstr "one trash can"
 
-msgid "serials_count->serial_count"
-msgid_plural ""
-msgstr[0] "[%d] сериал"
-msgstr[1] "[%d] сериала"
-msgstr[2] ""
-msgstr[3] "[%d] сериалов"
-
-msgid "serials_count"
-msgstr "%#@serial_count@"
-
-msgid "seconds_count->seconds_count"
-msgid_plural ""
-msgstr[0] "[%d] секунда"
-msgstr[1] "[%d] секунды"
-msgstr[2] ""
-msgstr[3] "[%d] секунд"
-
-msgid "seconds_count"
-msgstr "%#@seconds_count@"
-
-msgid "removed_count_serials->removed_serial_count"
-msgid_plural ""
-msgstr[0] "Вы удалили [%d] сериал"
-msgstr[1] "Вы удалили [%d] сериала"
-msgstr[2] ""
-msgstr[3] "Вы удалили [%d] сериалов"
-
-msgid "removed_count_serials"
-msgstr "%#@removed_serial_count@"
-
-msgid "removed_count_films_and_serials->removed_film_and_serial_count"
-msgid_plural ""
-msgstr[0] "Вы удалили [%d] фильм или сериал"
-msgstr[1] "Вы удалили [%d] фильма и сериала"
-msgstr[2] ""
-msgstr[3] "Вы удалили [%d] фильмов и сериалов"
-
-msgid "removed_count_films_and_serials"
-msgstr "%#@removed_film_and_serial_count@"
-
-msgid "removed_count_films->removed_film_count"
-msgid_plural ""
-msgstr[0] "Вы удалили [%d] фильм"
-msgstr[1] "Вы удалили [%d] фильма"
-msgstr[2] ""
-msgstr[3] "Вы удалили [%d] фильмов"
-
-msgid "removed_count_films"
-msgstr "%#@removed_film_count@"
-
-msgid "removed_count_channels->removed_channels_count"
-msgid_plural ""
-msgstr[0] "Вы удалили [%d] канал"
-msgstr[1] "Вы удалили [%d] канала"
-msgstr[2] ""
-msgstr[3] "Вы удалили [%d] каналов"
-
-msgid "removed_count_channels"
-msgstr "%#@removed_channels_count@"
-
-msgid "remove_count_serials->serial_count"
-msgid_plural ""
-msgstr[0] "Удалить [%d] сериал"
-msgstr[1] "Удалить [%d] сериала"
-msgstr[2] ""
-msgstr[3] "Удалить [%d] сериалов"
-
-msgid "remove_count_serials"
-msgstr "%#@serial_count@"
-
-msgid "remove_count_reminders->reminder_count"
-msgid_plural ""
-msgstr[0] "Удалить [%d] напоминание"
-msgstr[1] "Удалить [%d] напоминания"
-msgstr[2] ""
-msgstr[3] "Удалить [%d] напоминаний"
-
-msgid "remove_count_reminders"
-msgstr "%#@reminder_count@"
-
-msgid "remove_count_films_and_serials->film_and_serial_count"
-msgid_plural ""
-msgstr[0] "Удалить [%d] фильм или сериал"
-msgstr[1] "Удалить [%d] фильма и сериала"
-msgstr[2] ""
-msgstr[3] "Удалить [%d] фильмов и сериалов"
-
-msgid "remove_count_films_and_serials"
-msgstr "%#@film_and_serial_count@"
-
-msgid "remove_count_films->film_count"
-msgid_plural ""
-msgstr[0] "Удалить [%d] фильм"
-msgstr[1] "Удалить [%d] фильма"
-msgstr[2] ""
-msgstr[3] "Удалить [%d] фильмов"
-
-msgid "remove_count_films"
-msgstr "%#@film_count@"
-
-msgid "remove_count_channels->channels_count"
-msgid_plural ""
-msgstr[0] "Удалить [%d] канал"
-msgstr[1] "Удалить [%d] канала"
-msgstr[2] ""
-msgstr[3] "Удалить [%d] каналов"
-
-msgid "remove_count_channels"
-msgstr "%#@channels_count@"
-
-msgid "reminder_count->reminder_count"
-msgid_plural ""
-msgstr[0] "[%d] напоминание"
-msgstr[1] "[%d] напоминания"
-msgstr[2] ""
-msgstr[3] "[%d] напоминаний"
-
-msgid "reminder_count"
-msgstr "%#@reminder_count@"
-
-msgid "opened_task1"
-msgstr "The opened task"
-
-msgid "opened_task"
-msgstr "The opened task"
-
-msgid "new_content3"
-msgstr "Completely new content"
-
-msgid "new_content2"
-msgstr "New content2"
-
-msgid "new_content1"
-msgstr "New content1"
-
-msgid "month_plural->month_count"
-msgid_plural ""
-msgstr[0] "месяц"
-msgstr[1] "месяца"
-msgstr[2] "месяцев"
-msgstr[3] "месяца"
-
-msgid "month_plural"
-msgstr "%#@month_count@"
-
-msgid "minutes_count->minutes_count"
-msgid_plural ""
-msgstr[0] "[%d] минута"
-msgstr[1] "[%d] минуты"
-msgstr[2] ""
-msgstr[3] "[%d] минут"
-
-msgid "minutes_count"
-msgstr "%#@minutes_count@"
-
-msgid "left_symbols_count->left_symbols"
-msgid_plural ""
-msgstr[0] "Осталось [%d] символ"
-msgstr[1] "Осталось [%d] символа"
-msgstr[2] ""
-msgstr[3] "Осталось [%d] символов"
-
-msgid "left_symbols_count"
-msgstr "%#@left_symbols@"
-
-msgid "left_plural->left_count"
-msgid_plural ""
-msgstr[0] "остался"
-msgstr[1] "осталось"
-msgstr[2] "осталось"
-msgstr[3] "осталось"
-
-msgid "left_plural"
-msgstr "%#@left_count@"
-
-msgid "in_minutes_count->in_minutes_count"
-msgid_plural ""
-msgstr[0] "[%d] минуту"
-msgstr[1] "[%d] минуты"
-msgstr[2] ""
-msgstr[3] "[%d] минут"
-
-msgid "in_minutes_count"
-msgstr "%#@in_minutes_count@"
-
-msgid "hours_plural->hours_count"
-msgid_plural ""
-msgstr[0] "час"
-msgstr[1] "часа"
-msgstr[2] "часов"
-msgstr[3] "часа"
-
-msgid "hours_plural"
-msgstr "%#@hours_count@"
-
-msgid "hhhh->format->NSStringFormatValueTypeKey"
-msgstr "li"
+msgid "apples->other"
+msgstr "There is no exact translation for \"%1$s pāʻālua\" because it exists in a specific context."
 
 msgid "hhhh->format"
 msgid_plural "hhhh->format"
 msgstr[0] "rty"
 msgstr[1] "rty"
-msgstr[2] "hhhh->format"
-msgstr[3] "hhhh->format"
-
-msgid "hhhh"
-msgstr "%#@format@"
-
-msgid "free_plural->free_count"
-msgid_plural ""
-msgstr[0] "бесплатный"
-msgstr[1] "бесплатных"
-msgstr[2] "бесплатных"
-msgstr[3] "бесплатных"
-
-msgid "free_plural"
-msgstr "%#@free_count@"
-
-msgid "films_count->film_count"
-msgid_plural ""
-msgstr[0] "[%d] фильм"
-msgstr[1] "[%d] фильма"
-msgstr[2] ""
-msgstr[3] "[%d] фильмов"
-
-msgid "films_count"
-msgstr "%#@film_count@"
-
-msgid "day_plural->days_count"
-msgid_plural ""
-msgstr[0] "день"
-msgstr[1] "дня"
-msgstr[2] "дней"
-msgstr[3] "дня"
-
-msgid "day_plural"
-msgstr "%#@days_count@"
-
-msgid "colors->other"
-msgstr "other"
-
-msgid "colors->one"
-msgstr "one"
 
 msgid "colors->many"
 msgstr "many"
 
-msgid "colors->few"
+msgid "new_content"
+msgstr "New content"
+
+msgid "test_key"
+msgstr "my new file contents"
+
+msgid "apples->few"
 msgstr "few"
 
-msgid "colors"
-msgid_plural "colors"
-msgstr[0] "green"
-msgstr[1] "colors"
-msgstr[2] "colors"
-msgstr[3] "colors"
+msgid "opened_task1"
+msgstr "The opened task"
+
+msgid "colors->other"
+msgstr "other"
+
+msgid "hhhh->format->NSStringFormatValueTypeKey"
+msgstr "li"
+
+msgid "hhhh"
+msgstr "%#@format@"
+
+msgid "account_was_deleted"
+msgstr "Account was deleted"
 
 msgid "closed_task1"
 msgstr "The closed task"
+
+msgid "apples->many"
+msgstr "many"
+
+msgid "account_was_created11"
+msgstr "The meeting was held"
+
+msgid "colors->few"
+msgstr "few"
+
+msgid "remove_count_films_and_serials"
+msgstr "%#@film_and_serial_count@"
+
+msgid "remove_count_serials->serial_count"
+msgid_plural "remove_count_serials->serial_count"
+msgstr[0] "Удалить %d сериал"
+msgstr[1] "Удалить %d сериала"
+
+msgid "account_deleted"
+msgstr "Account was deleted"
+
+msgid "seconds_count->seconds_count"
+msgid_plural "seconds_count->seconds_count"
+msgstr[0] "%d секунда"
+msgstr[1] "%d секунды"
+
+msgid "removed_count_channels"
+msgstr "%#@removed_channels_count@"
+
+msgid "new_test_key2"
+msgstr "new value2"
+
+msgid "free_plural"
+msgstr "%#@free_count@"
+
+msgid "account_created_new"
+msgstr "The account has been created recently"
+
+msgid "opened_task"
+msgstr "The opened task"
+
+msgid "remove_count_channels"
+msgstr "%#@channels_count@"
+
+msgid "serials_count"
+msgstr "%#@serial_count@"
+
+msgid "removed_count_films->removed_film_count"
+msgid_plural "removed_count_films->removed_film_count"
+msgstr[0] "Вы удалили %d фильм"
+msgstr[1] "Вы удалили %d фильма"
+
+msgid "left_plural->left_count"
+msgid_plural "left_plural->left_count"
+msgstr[0] "остался"
+msgstr[1] "осталось"
+
+msgid "week_plural->weeks_count"
+msgid_plural "week_plural->weeks_count"
+msgstr[0] "неделю"
+msgstr[1] "недели"
+
+msgid "films_count"
+msgstr "%#@film_count@"
+
+msgid "in_minutes_count->in_minutes_count"
+msgid_plural "in_minutes_count->in_minutes_count"
+msgstr[0] "%d минуту"
+msgstr[1] "%d минуты"
+
+msgid "minutes_count"
+msgstr "%#@minutes_count@"
+
+msgid "left_symbols_count"
+msgstr "%#@left_symbols@"
+
+msgid "remove_count_reminders"
+msgstr "%#@reminder_count@"
+
+msgid "year_plural"
+msgstr "%#@years_count@"
+
+msgid "month_plural"
+msgstr "%#@month_count@"
+
+msgid "films_count->film_count"
+msgid_plural "films_count->film_count"
+msgstr[0] "%d фильм"
+msgstr[1] "%d фильма"
+
+msgid "remove_count_reminders->reminder_count"
+msgid_plural "remove_count_reminders->reminder_count"
+msgstr[0] "Удалить %d напоминание"
+msgstr[1] "Удалить %d напоминания"
+
+msgid "new_content3"
+msgstr "Completely new content"
+
+msgid "removed_count_films_and_serials->removed_film_and_serial_count"
+msgid_plural "removed_count_films_and_serials->removed_film_and_serial_count"
+msgstr[0] "Вы удалили %d фильм или сериал"
+msgstr[1] "Вы удалили %d фильма и сериала"
+
+msgid "left_plural"
+msgstr "%#@left_count@"
+
+msgid "removed_count_channels->removed_channels_count"
+msgid_plural "removed_count_channels->removed_channels_count"
+msgstr[0] "Вы удалили %d канал"
+msgstr[1] "Вы удалили %d канала"
+
+msgid "day_plural->days_count"
+msgid_plural "day_plural->days_count"
+msgstr[0] "день"
+msgstr[1] "дня"
+
+msgid "free_plural->free_count"
+msgid_plural "free_plural->free_count"
+msgstr[0] "бесплатный"
+msgstr[1] "бесплатных"
+
+msgid "broken_test"
+msgstr "The test has been heavy broken somehow"
+
+msgid "account_was_created"
+msgstr "The meeting was held"
+
+msgid "removed_count_films_and_serials"
+msgstr "%#@removed_film_and_serial_count@"
+
+msgid "channels_count"
+msgstr "%#@channel_count@"
+
+msgid "remove_count_films->film_count"
+msgid_plural "remove_count_films->film_count"
+msgstr[0] "Удалить %d фильм"
+msgstr[1] "Удалить %d фильма"
+
+msgid "new_content2"
+msgstr "New content2"
+
+msgid "removed_count_serials->removed_serial_count"
+msgid_plural "removed_count_serials->removed_serial_count"
+msgstr[0] "Вы удалили %d сериал"
+msgstr[1] "Вы удалили %d сериала"
+
+msgid "month_plural->month_count"
+msgid_plural "month_plural->month_count"
+msgstr[0] "месяц"
+msgstr[1] "месяца"
 
 msgid "closed_task"
 msgstr "The closed task"
 
 msgid "channels_count->channel_count"
-msgid_plural ""
-msgstr[0] "[%d] канал"
-msgstr[1] "[%d] канала"
-msgstr[2] ""
-msgstr[3] "[%d] каналов"
+msgid_plural "channels_count->channel_count"
+msgstr[0] "%d канал"
+msgstr[1] "%d канала"
 
-msgid "channels_count"
-msgstr "%#@channel_count@"
+msgid "reminder_count->reminder_count"
+msgid_plural "reminder_count->reminder_count"
+msgstr[0] "%d напоминание"
+msgstr[1] "%d напоминания"
 
-msgid "apples->other"
-msgstr "There is no exact translation for \"[%1$s] pāʻālua\" because it exists in a specific context."
+msgid "new_content1"
+msgstr "New content1"
 
-msgid "apples->one"
-msgstr "one trash can"
+msgid "serials_count->serial_count"
+msgid_plural "serials_count->serial_count"
+msgstr[0] "%d сериал"
+msgstr[1] "%d сериала"
 
-msgid "apples->many"
-msgstr "many"
+msgid "hours_plural"
+msgstr "%#@hours_count@"
 
-msgid "apples->few"
-msgstr "few"
+msgid "week_plural"
+msgstr "%#@weeks_count@"
 
-msgid "apples"
-msgid_plural "apples"
-msgstr[0] "one trash can"
-msgstr[1] "apples"
-msgstr[2] "apples"
-msgstr[3] "There is no exact translation for \"[%1$s] pāʻālua\" because it exists in a specific context."
+msgid "hours_plural->hours_count"
+msgid_plural "hours_plural->hours_count"
+msgstr[0] "час"
+msgstr[1] "часа"
 
-msgid "account_was_deleted"
-msgstr "Account was deleted"
+msgid "reminder_count"
+msgstr "%#@reminder_count@"
 
-msgid "account_was_created11"
-msgstr "The meeting was held"
+msgid "left_symbols_count->left_symbols"
+msgid_plural "left_symbols_count->left_symbols"
+msgstr[0] "Осталось %d символ"
+msgstr[1] "Осталось %d символа"
 
-msgid "account_was_created"
-msgstr "The meeting was held"
+msgid "remove_count_channels->channels_count"
+msgid_plural "remove_count_channels->channels_count"
+msgstr[0] "Удалить %d канал"
+msgstr[1] "Удалить %d канала"
 
-msgid "account_deleted"
-msgstr "Account was deleted"
+msgid "remove_count_films"
+msgstr "%#@film_count@"
 
-msgid "account_created"
-msgstr "The meeting was held"
+msgid "minutes_count->minutes_count"
+msgid_plural "minutes_count->minutes_count"
+msgstr[0] "%d минута"
+msgstr[1] "%d минуты"
 
-msgid "new_test_key2"
-msgstr "new value2"
+msgid "in_minutes_count"
+msgstr "%#@in_minutes_count@"
 
-msgid "account_created_new"
-msgstr "The account has been created recently"
+msgid "remove_count_films_and_serials->film_and_serial_count"
+msgid_plural "remove_count_films_and_serials->film_and_serial_count"
+msgstr[0] "Удалить %d фильм или сериал"
+msgstr[1] "Удалить %d фильма и сериала"
 
-msgid "broken_test"
-msgstr "The test has been heavy broken somehow"
+msgid "remove_count_serials"
+msgstr "%#@serial_count@"
+
+msgid "seconds_count"
+msgstr "%#@seconds_count@"
+
+msgid "removed_count_films"
+msgstr "%#@removed_film_count@"
+
+msgid "year_plural->years_count"
+msgid_plural "year_plural->years_count"
+msgstr[0] "год"
+msgstr[1] "года"
+
+msgid "removed_count_serials"
+msgstr "%#@removed_serial_count@"
+
+msgid "day_plural"
+msgstr "%#@days_count@"
 
 msgid "new_update"
 msgstr "A new update"
