@@ -1,12 +1,1 @@
-{
-    "account_created": "The meeting was held",
-    "apples": {
-        "one": "one trash can",
-        "other": "одна мусорная корзина"
-    },
-    "colors": {
-        "one": "one color",
-        "other": ""
-    },
-    "new_string_key": "value new"
-}
+{"account_created":"The meeting was held","account_created_new":"The account has been created recently","account_deleted":"Account was deleted","account_was_created":"The meeting was held","account_was_created11":"The meeting was held","account_was_deleted":"Account was deleted","another_new_key":"","apples":{"few":"few","many":"many","one":"one trash can","other":"одна мусорная корзина"},"broken_test":"The test has been heavy broken somehow","channels_count":{"channel_count":"%d канал|%d канала"},"closed_task":"The closed task","closed_task1":"The closed task","colors":"","day_plural":{"days_count":"день|дня"},"films_count":"%#@film_count@","free_plural":"%#@free_count@","hello_world":"hello!","hhhh":{"format":{"NSStringFormatValueTypeKey":"li"}},"hours_plural":{"hours_count":"час|часа"},"in_minutes_count":{"in_minutes_count":"%d минуту|%d минуты"},"left_plural":{"left_count":"остался|осталось"},"left_symbols_count":"%#@left_symbols@","minutes_count":{"minutes_count":"%d минута|%d минуты"},"month_plural":{"month_count":"месяц|месяца"},"new_content":"New content","new_content1":"New content1","new_content2":"New content2","new_content3":"Completely new content","new_string_key":"value new","new_test_key2":"new value2","new_update":"A new update","opened_task":"The opened task","opened_task1":"The opened task","plural_key":"bar","reminder_count":"%#@reminder_count@","remove_count_channels":{"channels_count":"Удалить %d канал|Удалить %d канала"},"remove_count_films":{"film_count":"Удалить %d фильм|Удалить %d фильма"},"remove_count_films_and_serials":"%#@film_and_serial_count@","remove_count_reminders":"%#@reminder_count@","remove_count_serials":"%#@serial_count@","removed_count_channels":"%#@removed_channels_count@","removed_count_films":"%#@removed_film_count@","removed_count_films_and_serials":{"removed_film_and_serial_count":"Вы удалили %d фильм или сериал|Вы удалили %d фильма и сериала"},"removed_count_serials":{"removed_serial_count":"Вы удалили %d сериал|Вы удалили %d сериала"},"seconds_count":{"seconds_count":"%d секунда|%d секунды"},"serials_count":{"serial_count":"%d сериал|%d сериала"},"test_key":"my new file contents","week_plural":{"weeks_count":"неделю|недели"},"year_plural":{"years_count":"год|года"}}
