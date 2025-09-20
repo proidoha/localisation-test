@@ -2,7 +2,7 @@
 
 Einfach Repo, um die GitHub-Integration zu testen.
 
-# Space Exploration and Astronomy: A Journey Through the Cosmos
+# Weltraumforschung und Astronomie: Eine Reise durch den Kosmos
 
 Dieser umfassende Leitfaden erkundet das riesige Universum, von unserem Sonnensystem bis zu fernen Galaxien, und behandelt grundlegende Konzepte der Astronomie, Weltraumerkundungsmissionen und die Suche nach außerirdischem Leben.
 
